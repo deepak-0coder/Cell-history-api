@@ -1,5 +1,4 @@
 # cell-history-api
-About the history of cell\
 """
 History of Cell Biology: From 1665 to Present
 A comprehensive timeline and educational resource
