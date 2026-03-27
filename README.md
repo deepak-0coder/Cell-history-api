@@ -65,16 +65,5 @@ A comprehensive timeline and educational resource documenting the milestones of 
 
 ---
 
-## 🔍 Search Examples (Python API)
-To replicate these results using the `cell_history.py` script:
-
-**Search by Scientist:**
-* `Robert Hooke (1665)`
-
-**Century Summaries:**
-* `20th Century: 8 major milestones recorded.`
-
----
-
 ### 💡 Project Conclusion
 This repository serves as a functional and historical proof that the **cell is the structural and functional unit of life**. By tracking these discoveries, we see how the human understanding of life shifted from "visible organs" to "microscopic units."
