@@ -1,4 +1,4 @@
-# 🔬 History of Cell Biology: 1665 - Present
+# 🔬 History of Cell Biology: 1665 - Present (2026)
 A comprehensive timeline and educational resource documenting the milestones of cellular discovery.
 
 ---
@@ -65,5 +65,5 @@ A comprehensive timeline and educational resource documenting the milestones of 
 
 ---
 
-### 💡 Project Conclusion
+### 💡 Conclusion
 This repository serves as a functional and historical proof that the **cell is the structural and functional unit of life**. By tracking these discoveries, we see how the human understanding of life shifted from "visible organs" to "microscopic units."
