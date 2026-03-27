@@ -32,39 +32,17 @@ A comprehensive timeline and educational resource documenting the milestones of 
 
 
 
-### 19th Century
-* **1804 | Jean-Baptiste Lamarck**
-  * **Discovery:** Proposed cells are the basic unit of life.
-  * **Significance:** Early cell theory foundation.
-* **1831 | Robert Brown**
-  * **Discovery:** Identified the cell nucleus in orchids.
-  * **Significance:** Revealed nucleus as the cell's central organelle.
-* **1839 | Matthias Schleiden & Theodor Schwann**
-  * **Discovery:** Formulated Cell Theory.
-  * **Significance:** Established that all organisms are made of cells.
-* **1858 | Rudolf Virchow**
-  * **Discovery:** *'Omnis cellula e cellula'* (all cells from cells).
-  * **Significance:** Completed the basic cell theory.
-* **1880 | Various Scientists**
-  * **Discovery:** Identification of organelles (mitochondria, chloroplasts).
-  * **Significance:** Understanding of cellular compartmentalization.
-* **1898 | Camillo Golgi**
-  * **Discovery:** Identified the Golgi apparatus.
-  * **Significance:** Revealed protein processing and packaging organelle.
+### 19th Century: The Functional Revolution
+* **1831 | Robert Brown:** Identified the **nucleus**; the first step in seeing the cell as an organized system.
+* **1839 | Schleiden & Schwann:** Formulated the first two tenets of **Cell Theory**: The cell is the basic unit of structure and function for all living things.
+* **1858 | Rudolf Virchow:** Added the third tenet: *'Omnis-cellula-e-cellula'*—all cells arise from pre-existing cells.
 
+### 20th Century: The Molecular Era
+* **1953 | Watson, Crick & Franklin:** Discovery of the **DNA Double Helix**, explaining how the "Functional Unit" stores its blueprints.
+* **1970 | Lynn Margulis:** Proposed the **Endosymbiotic Theory**, explaining that mitochondria were once independent bacteria.
 
-
-### 20th Century
-* **1902 | Sutton & Boveri:** Chromosomal theory of inheritance.
-* **1944 | Oswald Avery:** DNA identified as genetic material.
-* **1953 | Watson, Crick, Franklin & Wilkins:** DNA double helix structure revealed.
-* **1970 | Lynn Margulis:** Endosymbiotic theory refined (Origins of mitochondria).
-
-### 21st Century
-* **2003 | International Consortium:** Human Genome Project completed.
-* **2012 | Doudna & Charpentier:** CRISPR-Cas9 gene editing refined.
-* **2024 | Ongoing Research:** Artificial cells and synthetic biology.
-
+### 21st Century: The Genetic Frontier
+* **2012 | Doudna & Charpentier:** Developed **CRISPR**, allowing us to edit the "code" of the cell directly.
 ---
 
 ### 💡 Conclusion
